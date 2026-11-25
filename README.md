@@ -8,7 +8,7 @@ y la pongo en producción.
 
 ### 💼 Lo que desarrollé
 
-- 🏋️ **Sistema de gestión para una cadena de gimnasios multisede**, con control de acceso
+- 🏋️ **Sistema de gestión para Complejo Oeste**, cadena de gimnasios multisede, con control de acceso
   **biométrico** (lector de palma + molinete). Socios, cobros, caja, turnos y una app para los
   socios. El acceso sigue funcionando aunque se corte internet.
 - 📱 **SaaS de rutinas digitales:** los gimnasios crean rutinas y se las asignan a sus socios, que

@@ -6,11 +6,22 @@ Construyo sistemas web para negocios reales: gimnasios, restaurantes, comercios 
 Me ocupo de todo el ciclo: hablo con el cliente, diseño la solución, la programo de punta a punta
 y la pongo en producción.
 
-- 🏋️ Integré **hardware biométrico** (lector de palma y molinete) con un sistema web que funciona
-  incluso sin internet.
-- 💳 Implementé **cobros y suscripciones con Mercado Pago** en varios productos.
-- ⚡ Trabajo con **tiempo real** (Socket.io), **PWA** y **notificaciones push**.
-- 🔍 Busco mi primer puesto en un equipo de desarrollo, donde pueda aportar y seguir aprendiendo.
+### 💼 Lo que desarrollé
+
+- 🏋️ **Sistema de gestión para una cadena de gimnasios multisede**, con control de acceso
+  **biométrico** (lector de palma + molinete). Socios, cobros, caja, turnos y una app para los
+  socios. El acceso sigue funcionando aunque se corte internet.
+- 📱 **SaaS de rutinas digitales:** los gimnasios crean rutinas y se las asignan a sus socios, que
+  las ven en el celular con instrucciones, imágenes y videos de cada ejercicio. Facilita el
+  aprendizaje de los socios y le ahorra trabajo a los instructores.
+- 🍽️ **SaaS de menús digitales para restaurantes:** el cliente escanea el QR de su mesa y pide
+  desde el celular; el pedido llega a la cocina en tiempo real sabiendo de qué mesa viene.
+  Incluye **modo delivery** con pedidos que llegan por **WhatsApp**.
+
+### 🤖 Desarrollo con IA
+
+Uso IA a diario para programar más rápido y con más calidad: **Claude Code**, **OpenCode** y
+**Gemini (Antigravity)**.
 
 ### 🛠️ Tecnologías
 
